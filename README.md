@@ -1,5 +1,3 @@
-# Accident-Data-Analysis
-
 # Project Title: Accident Analysis
 
 ## Overview
