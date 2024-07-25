@@ -38,10 +38,10 @@ The primary objective of this analysis was to determine the number of death casu
 
 ### Insights and Findings
 
-- **Cars**: The analysis revealed that cars were involved in [X] number of death casualties.
-- **Bikes**: Bikes were responsible for [Y] number of death casualties.
-- **Trucks**: Trucks accounted for [Z] number of death casualties.
-- **Vans**: Vans were involved in [W] number of death casualties.
+- **Cars**: The analysis revealed that cars were involved in 4,17,883 number of death casualties.
+- **Bikes**: Bikes were responsible for 45,250 number of death casualties.
+- **Trucks**: Trucks accounted for 20,052 number of death casualties.
+- **Vans**: Vans were involved in 35,256 number of death casualties.
 
 These findings highlight the significant impact of different vehicle types on road safety and can be used to inform policy and safety measures.
 
